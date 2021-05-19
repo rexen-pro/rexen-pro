@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rexen-pro
+- 👀 I’m interested in design, coding, engineering & DIY
+- 🌱 I’m currently learning "frontend"
+- 💞️ I’m looking to collaborate on "smart-house"
+- 📫 How to reach me: www.rexen.pro
